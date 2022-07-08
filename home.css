@@ -541,7 +541,7 @@
     padding-bottom: 5px;
   }
   .home-hero1 {
-    padding-top: var(--dl-space-space-sixunits);
+    padding-top: var(--dl-space-space-unit);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
@@ -556,7 +556,7 @@
     margin-bottom: 41px;
   }
   .home-footer1 {
-    height: 186px;
+    height: 130px;
     padding: var(--dl-space-space-unit);
     flex-direction: column;
   }
