@@ -328,7 +328,6 @@
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
-  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text13 {
   color: #000000;
