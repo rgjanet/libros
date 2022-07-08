@@ -541,7 +541,7 @@
     padding-bottom: 5px;
   }
   .home-hero1 {
-    padding-top: var(--dl-space-space-unit);
+    padding-top: var(--dl-space-space-sixunits);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
