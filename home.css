@@ -328,6 +328,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text13 {
   color: #000000;
@@ -556,7 +557,7 @@
     margin-bottom: 41px;
   }
   .home-footer1 {
-    height: 130px;
+    height: 186px;
     padding: var(--dl-space-space-unit);
     flex-direction: column;
   }
