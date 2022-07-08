@@ -253,7 +253,7 @@
   width: 100%;
   height: fit-content;
   display: flex;
-  padding: var(--dl-space-space-threeunits);
+  padding: var(--dl-space-space-twounits);
   min-height: var(--dl-size-size-large);
   align-items: center;
   flex-direction: column;
